@@ -546,7 +546,7 @@ Then let's try to change the keyword from ".txt" to "What", and record the resul
 45
 ```
 # Conclusion for the 3rd command-line operation:
-By using the command-line __grep--count__ we can filter the lines by the keywords and then count the number of these lines without display these lines. By using this we will not need to do additional operation such as __wc__ to count the specific lines.\
+By using the command-line __grep--count__ we can filter the lines by the keywords and then count the number of these lines without display these lines. By using this we will not need to do additional operation such as __wc__ to count the specific lines.
 # Command-line operation 4:
 The last command-line operation I will use is __--line-number__, this command-line will filter the lines by the keyword and display all required lines with line numbers. I will record the result in the file grep-results5.txt and cat this file to display the result. Here is what it looks like:
 ```

@@ -526,7 +526,7 @@ grep-results2.txt:written_2/travel_guides/berlitz2/PuertoRico-WhatToDo.txt
 grep-results2.txt:written_2/travel_guides/berlitz2/Vallarta-WhatToDo.txt
 ```
 # Conclusion for the second command-line operation:
-Compared with the first mode, by using this command-line operationwe, we can perform double filtering on the lines that need to be filtered and obtained. The first level of filtering is keyword filtering to filter out lines containing keywords, and the second level of filtering is to define the scope of filtering. Let us filter only in the specific extend files.\
+Compared with the first mode, by using this command-line operationwe, we can perform double filtering on the lines that need to be filtered and obtained. The first level of filtering is keyword filtering to filter out lines containing keywords, and the second level of filtering is to define the scope of filtering. Let us filter only in the specific extend files.
 # Command-line operation 3:
 Now I will use the command line __git grep --count ".txt" find-results.txt__, this command will not display all these lines containning ".txt", but display the number of lines containning ".txt". We record the result in the file called grep-results3.txt and cat this file to display the result. Here is what it looks like:
 ```

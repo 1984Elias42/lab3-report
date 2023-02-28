@@ -289,7 +289,7 @@ written_2/travel_guides/berlitz2/PuertoRico-WhatToDo.txt
 written_2/travel_guides/berlitz2/Vallarta-WhatToDo.txt
 ```
 # Conclusion for the first command-line operation:
-By using this command-line operation we can quickly filter to get the line we want. We can filter out the lines we want by keywords.\
+By using this command-line operation we can quickly filter to get the line we want. We can filter out the lines we want by keywords.
 # Command-line operation 2:
 Then we will do another grep command which is __grep ch  -- *.txt__, this command line will display the line contains "ch" __and__ in the .txt extends files. Here is what it looks like:
 ```

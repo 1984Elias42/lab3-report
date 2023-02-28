@@ -1,4 +1,4 @@
-# Lab report 2
+# Lab report 3
 ## Researching Commands
 I will choose the command grep and give 8 examples of it.\
 Before I use the grep command, I will use __find written_2/ > find-results.txt__ to get the list files and directories inside the directory __written_2__ in a txt file called __find-results__.\
